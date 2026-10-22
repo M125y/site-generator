@@ -1,0 +1,80 @@
+Feature name,Baseline status,Chrome Availability Status,Chrome Availability Version,Chrome Availability Date,Edge Availability Status,Edge Availability Version,Edge Availability Date,Firefox Availability Status,Firefox Availability Version,Firefox Availability Date,Safari Availability Status,Safari Availability Version,Safari Availability Date,Chrome WPT Stable Score,Edge WPT Stable Score,Firefox WPT Stable Score,Safari WPT Stable Score,Chrome Usage
+color-gamut media query,widely,available,58,2017-04-19,available,79,2020-01-15,available,110,2023-02-14,available,10,2016-09-20,1,1,1,1,
+createImageBitmap,widely,available,59,2017-06-05,available,79,2020-01-15,available,98,2022-03-08,available,17.2,2023-12-11,0.769230769,0.846153846,0.807692308,0.461538462,
+dirname,widely,available,17,2012-02-08,available,79,2020-01-15,available,116,2023-08-01,available,6,2012-07-25,1,1,0.75,0.75,
+Form-associated custom elements,widely,available,77,2019-09-10,available,79,2020-01-15,available,98,2022-03-08,available,16.4,2023-03-27,1,0.952380952,0.952380952,0.904761905,
+Lazy-loading images and iframes,widely,available,77,2019-09-10,available,79,2020-01-15,available,121,2023-12-19,available,16.4,2023-03-27,0.898734177,0.898734177,0.924050633,0.721518987,
+messageerror,widely,available,60,2017-07-25,available,18,2018-10-02,available,57,2017-11-14,available,16.4,2023-03-27,1,1,0.5,1,
+"<link rel=""modulepreload"">",widely,available,66,2018-04-17,available,79,2020-01-15,available,115,2023-07-04,available,17,2023-09-18,0.642857143,0.642857143,0.571428571,0.571428571,
+Notifications from service workers and installed apps,widely,available,20,2012-06-26,available,14,2016-08-02,available,22,2013-06-25,available,7,2013-10-22,0.833333333,0.833333333,0.166666667,0.166666667,
+Preloading responsive images,widely,available,73,2019-03-12,available,79,2020-01-15,available,78,2020-06-30,available,17.2,2023-12-11,1,1,1,1,
+window.print(),widely,available,1,2008-12-11,available,12,2015-07-29,available,1,2004-11-09,available,1.1,2003-10-24,0.75,0.75,0.75,0.75,
+Push messages,widely,available,50,2016-04-13,available,17,2018-04-30,available,44,2016-01-26,available,16,2022-09-12,0.533333333,0.5,0.071428571,0.266666667,
+Resource size,widely,available,54,2016-10-12,available,17,2018-04-30,available,45,2016-03-08,available,16.4,2023-03-27,1,1,1,0.5,
+Screen orientation,widely,available,38,2014-10-07,available,79,2020-01-15,available,43,2015-12-15,available,16.4,2023-03-27,0.1,0.1,0.1,,
+Server timing,widely,available,65,2018-03-06,available,79,2020-01-15,available,61,2018-06-26,available,16.4,2023-03-27,0.8,0.8,0.8,0.6,
+Storage manager,widely,available,61,2017-09-05,available,79,2020-01-15,available,57,2017-11-14,available,17,2023-09-18,1,1,1,0.888888889,
+translate,widely,available,19,2012-05-15,available,79,2020-01-15,available,111,2023-03-14,available,6,2012-07-25,1,1,0.875,1,
+User activation,widely,available,72,2019-01-29,available,79,2020-01-15,available,120,2023-11-21,available,16.4,2023-03-27,0.65,0.65,0.55,0.6,
+WebRTC SCTP information,widely,available,76,2019-07-30,available,79,2020-01-15,available,113,2023-05-09,available,15.4,2022-03-14,0.8,0.8,1,0.6,
+Web authentication easy public key access,widely,available,85,2020-08-25,available,85,2020-08-27,available,119,2023-10-24,available,16,2022-09-12,1,1,1,1,0.00000769
+Canvas createConicGradient(),widely,available,99,2022-03-01,available,99,2022-03-03,available,112,2023-04-11,available,16.4,2023-03-27,1,1,0.818181818,0.818181818,0.00005675
+rlh unit,widely,available,111,2023-03-07,available,111,2023-03-13,available,120,2023-11-21,available,16.4,2023-03-27,1,1,1,0.666666667,0.00007321
+Canvas reset(),widely,available,99,2022-03-01,available,99,2022-03-03,available,113,2023-05-09,available,17.2,2023-12-11,1,1,0.918918919,0.864864865,0.00016012
+preservesPitch,widely,available,86,2020-10-20,available,86,2020-10-09,available,101,2022-05-31,available,17.2,2023-12-11,1,1,1,,0.0003097
+Imperative slot assignment,widely,available,92,2021-07-20,available,92,2021-07-22,available,92,2021-09-07,available,16.4,2023-03-27,1,1,1,0.888888889,0.00034112
+font-synthesis-small-caps,widely,available,97,2022-01-04,available,97,2022-01-06,available,111,2023-03-14,available,16.4,2023-03-27,1,1,1,0.833333333,0.00070693
+Exponential functions (CSS),widely,available,120,2023-12-05,available,120,2023-12-07,available,118,2023-09-26,available,15.4,2022-03-14,0.666666667,0.666666667,0.666666667,0.666666667,0.00079776
+font-synthesis-style,widely,available,97,2022-01-04,available,97,2022-01-06,available,111,2023-03-14,available,16.4,2023-03-27,0.714285714,0.714285714,1,0.714285714,0.00105357
+requestAnimationFrame() in workers,widely,available,69,2018-09-04,available,79,2020-01-15,available,99,2022-04-05,available,16.4,2023-03-27,1,1,1,1,0.00209881
+cap unit,widely,available,118,2023-10-10,available,118,2023-10-13,available,97,2022-02-08,available,17.2,2023-12-11,1,1,1,1,0.00226813
+:user-valid and :user-invalid,widely,available,119,2023-10-31,available,119,2023-11-02,available,88,2021-04-19,available,16.5,2023-05-18,1,0.333333333,0.333333333,1,0.00237895
+Canvas roundRect(),widely,available,99,2022-03-01,available,99,2022-03-03,available,112,2023-04-11,available,16.4,2023-03-27,1,1,1,1,0.00259979
+@counter-style,widely,available,91,2021-05-25,available,91,2021-05-27,available,33,2014-10-14,available,17,2023-09-18,0.96,0.96,0.92,0.906666667,0.00301902
+<search>,widely,available,118,2023-10-10,available,118,2023-10-13,available,118,2023-09-26,available,17,2023-09-18,1,1,1,,0.00313899
+animation-composition,widely,available,112,2023-04-04,available,112,2023-04-06,available,115,2023-07-04,available,16,2022-09-12,1,1,1,1,0.00385755
+MathML,widely,available,109,2023-01-10,available,109,2023-01-12,available,4,2011-03-22,available,5.1,2011-07-20,0.91318328,0.908360129,0.803858521,0.81511254,0.00389574
+Clip path boxes,widely,available,119,2023-10-31,available,119,2023-11-02,available,54,2017-06-13,available,13.1,2020-03-24,1,1,0.933333333,0.933333333,0.00398154
+Two-value display property,widely,available,115,2023-07-18,available,115,2023-07-21,available,70,2019-10-22,available,15,2021-09-20,0.333333333,0.333333333,0.333333333,0.333333333,0.00406912
+image-set(),widely,available,113,2023-05-02,available,113,2023-05-05,available,89,2021-06-01,available,17,2023-09-18,0.974358974,0.974358974,1,1,0.00488127
+Hyphenate character,widely,available,106,2022-09-27,available,106,2022-10-03,available,98,2022-03-08,available,17,2023-09-18,0.8,0.8,1,0.6,0.00571893
+counter-set,widely,available,85,2020-08-25,available,85,2020-08-27,available,68,2019-07-09,available,17.2,2023-12-11,1,1,1,1,0.00608486
+calc() keywords,widely,available,110,2023-02-07,available,110,2023-02-09,available,114,2023-06-06,available,16,2022-09-12,0.833333333,0.833333333,0.833333333,1,0.00622356
+Subgrid,widely,available,117,2023-09-12,available,117,2023-09-15,available,71,2019-12-10,available,16,2022-09-12,0.985611511,0.985611511,0.856115108,0.942446043,0.00671941
+Fixed-width SIMD (WebAssembly),widely,available,91,2021-05-25,available,91,2021-05-27,available,89,2021-06-01,available,16.4,2023-03-27,1,1,1,0.983050847,0.00678665
+font-synthesis-weight,widely,available,97,2022-01-04,available,97,2022-01-06,available,111,2023-03-14,available,16.4,2023-03-27,1,1,0.857142857,0.857142857,0.00742859
+font-variant-alternates,widely,available,111,2023-03-07,available,111,2023-03-13,available,34,2014-12-01,available,9.1,2016-03-21,1,1,1,1,0.00802037
+Update frequency media query,widely,available,113,2023-05-02,available,113,2023-05-05,available,102,2022-06-28,available,17,2023-09-18,1,1,1,1,0.0081898
+scripting media query,widely,available,120,2023-12-05,available,120,2023-12-07,available,113,2023-05-09,available,17,2023-09-18,1,1,1,1,0.00928877
+Trigonometric functions (CSS),widely,available,111,2023-03-07,available,111,2023-03-13,available,108,2022-12-13,available,15.4,2022-03-14,0.833333333,0.833333333,1,1,0.0094693
+Lab and LCH,widely,available,111,2023-03-07,available,111,2023-03-13,available,113,2023-05-09,available,15,2021-09-20,0.909090909,0.909090909,0.909090909,0.909090909,0.01545753
+color(),widely,available,111,2023-03-07,available,111,2023-03-13,available,113,2023-05-09,available,15,2021-09-20,1,1,1,0.982142857,0.01569063
+lh unit,widely,available,109,2023-01-10,available,109,2023-01-12,available,120,2023-11-21,available,16.4,2023-03-27,1,1,1,0.666666667,0.01655455
+Import maps,widely,available,89,2021-03-02,available,89,2021-03-04,available,108,2022-12-13,available,16.4,2023-03-27,0.983050847,0.966101695,0.745762712,0.93220339,0.01873626
+JavaScript modules in workers,widely,available,80,2020-02-04,available,80,2020-02-07,available,114,2023-06-06,available,15,2021-09-20,0.928571429,0.928571429,0.714285714,0.714285714,0.02132252
+Origin private file system,widely,available,108,2022-11-29,available,108,2022-12-05,available,111,2023-03-14,available,16.4,2023-03-27,1,1,0.8,0.8,0.02300639
+Array by copy,widely,available,110,2023-02-07,available,110,2023-02-09,available,115,2023-07-04,available,16,2022-09-12,,,,,0.03526573
+String isWellFormed() and toWellFormed(),widely,available,111,2023-03-07,available,111,2023-03-13,available,119,2023-10-24,available,16.4,2023-03-27,,,,,0.03726633
+Oklab and OkLCh,widely,available,111,2023-03-07,available,111,2023-03-13,available,113,2023-05-09,available,15.4,2022-03-14,0.928571429,0.928571429,0.928571429,0.928571429,0.0383301
+Storage access,widely,available,119,2023-10-31,available,85,2020-08-27,available,65,2019-01-29,available,11.1,2018-04-12,0.958333333,0.833333333,0.958333333,0.916666667,0.04561636
+Device orientation events,widely,available,31,2013-11-12,available,12,2015-07-29,available,6,2011-08-16,available,17,2023-09-18,1,1,0.074074074,,0.05939033
+URL.canParse(),widely,available,120,2023-12-05,available,120,2023-12-07,available,115,2023-07-04,available,17,2023-09-18,1,1,1,1,0.06584969
+pdfViewerEnabled,widely,available,94,2021-09-21,available,94,2021-09-24,available,99,2022-04-05,available,16.4,2023-03-27,1,1,1,1,0.07899784
+inert,widely,available,102,2022-05-24,available,102,2022-05-31,available,112,2023-04-11,available,15.5,2022-05-16,0.965517241,0.931034483,0.896551724,0.827586207,0.07928083
+:nth-child() of <selector>,widely,available,111,2023-03-07,available,111,2023-03-13,available,113,2023-05-09,available,9,2015-09-30,1,1,1,0.925373134,0.09409727
+contain-intrinsic-size,widely,available,83,2020-05-19,available,83,2020-05-21,available,107,2022-11-15,available,17,2023-09-18,1,1,1,1,0.09603261
+Offscreen canvas,widely,available,69,2018-09-04,available,79,2020-01-15,available,105,2022-09-20,available,16.4,2023-03-27,0.905405405,0.907094595,0.879222973,0.834459459,0.09681305
+Nesting,widely,available,120,2023-12-05,available,120,2023-12-07,available,117,2023-08-29,available,17.2,2023-12-11,0.98,0.98,1,0.98,0.10537398
+Overflow media queries,widely,available,113,2023-05-02,available,113,2023-05-05,available,66,2019-03-19,available,17,2023-09-18,1,1,1,1,0.11706126
+:dir(),widely,available,120,2023-12-05,available,120,2023-12-07,available,49,2016-09-20,available,16.4,2023-03-27,1,1,1,1,0.12780112
+Constructed stylesheets,widely,available,73,2019-03-12,available,79,2020-01-15,available,101,2022-05-31,available,16.4,2023-03-27,0.923076923,0.923076923,0.923076923,0.923076923,0.13394531
+linear() easing,widely,available,113,2023-05-02,available,113,2023-05-05,available,112,2023-04-11,available,17.2,2023-12-11,0.75,0.75,0.75,0.75,0.1409023
+ARIA attribute reflection,widely,available,103,2022-06-21,available,103,2022-06-23,available,119,2023-10-24,available,16.4,2023-03-27,1,1,1,1,0.16785065
+Hyphenation,widely,available,88,2021-01-19,available,88,2021-01-21,available,43,2015-12-15,available,17,2023-09-18,0.925,0.75,0.95,0.775,0.18450313
+Media query range syntax,widely,available,104,2022-08-02,available,104,2022-08-05,available,102,2022-06-28,available,16.4,2023-03-27,1,1,1,1,0.19356954
+color-mix(),widely,available,111,2023-03-07,available,111,2023-03-13,available,113,2023-05-09,available,16.2,2022-12-13,0.823529412,0.823529412,0.823529412,0.882352941,0.21386784
+Compression streams,widely,available,80,2020-02-04,available,80,2020-02-07,available,113,2023-05-09,available,16.4,2023-03-27,0.243243243,0.243243243,1,0.972972973,0.25292678
+Container queries (size),widely,available,105,2022-09-02,available,105,2022-09-01,available,110,2023-02-14,available,16,2022-09-12,0.974358974,0.967948718,0.884615385,0.897435897,0.29116183
+Masks,widely,available,120,2023-12-05,available,120,2023-12-07,available,53,2017-04-19,available,15.4,2022-03-14,1,1,0.984496124,0.736434109,0.42049779
+:has(),widely,available,105,2022-09-02,available,105,2022-09-01,available,121,2023-12-19,available,15.4,2022-03-14,0.923076923,0.923076923,0.945054945,0.868131868,0.55532357
+outline,widely,available,94,2021-09-21,available,94,2021-09-24,available,88,2021-04-19,available,16.4,2023-03-27,1,1,0.939393939,0.606060606,0.77415154
