@@ -1,5 +1,8 @@
 # aip.dev static site generator
-
+git branch -m main Firelog-uvx-logfire-read-tokens---project-mahde-iraqi/starter-project-create---save
+git fetch origin
+git branch -u origin/Firelog-uvx-logfire-read-tokens---project-mahde-iraqi/starter-project-create---save Firelog-uvx-logfire-read-tokens---project-mahde-iraqi/starter-project-create---save
+git remote set-head origin -a
 This is the site generator for [aip.dev](https://aip.dev) and its forks. It
 takes AIP files in a git repository and outputs a static website.
 
